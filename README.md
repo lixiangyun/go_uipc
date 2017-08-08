@@ -1,2 +1,2 @@
 # go_uipc
-Unified communications channel
+United Interprocess Communication Based on UDP protocol, Provide reliable, high-performance, transport protocols for golang
