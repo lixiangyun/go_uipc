@@ -1,2 +1,3 @@
 # go_uipc
-United Interprocess Communication Based on UDP protocol, Provide reliable, high-performance, transport protocols for golang
+United Interprocess Communication Based on UDP protocol;
+Provide Reliable、high-performance、transport protocols；
